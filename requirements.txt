@@ -1,0 +1,7 @@
+langchain_xai
+langchain_community
+pypdf
+langchain_core
+sentence_transformers
+ipykernel
+streamlit
